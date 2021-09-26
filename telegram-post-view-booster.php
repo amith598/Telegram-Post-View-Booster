@@ -8,7 +8,7 @@
 
 $post_url = 'https://t.me/TestViewsGuys/7'; // Change this
 
-$proxies_file = __DIR__.'/sample_proxies.txt'; // Change this
+$proxies_file = __DIR__.'sample_proxies.txt'; // Change this
 
 $post_url .= '?embed=1';
 
